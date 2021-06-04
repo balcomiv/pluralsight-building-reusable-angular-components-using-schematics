@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "pluralsight-building-reusable-angular-components-using-schematics": {
+      "description": "A schematic for creating an order wizard using the Angular Material Stepper Component.",
+      "factory": "./pluralsight-building-reusable-angular-components-using-schematics/index#pluralsightBuildingReusableAngularComponentsUsingSchematics"
+    }
+  }
+}
